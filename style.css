@@ -1,0 +1,22 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+    color: red;
+    text-decoration:underline;
+    border: solid 5px blueviolet ;
+}
+
+p{
+    font-size: 30px;
+}
+
+img {
+    width: 400px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+
+body{
+    background-color: aqua;
+}
